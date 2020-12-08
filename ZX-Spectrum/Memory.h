@@ -1,10 +1,3 @@
-/*
- * IO.cc
- *
- *  Created on: 25 июн. 2020 г.
- *      Author: Даниил
- */
-
 #ifndef MEMORY_H_
 #define MEMORY_H_
 

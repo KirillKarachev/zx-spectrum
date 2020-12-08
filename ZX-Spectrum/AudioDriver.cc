@@ -1,10 +1,3 @@
-/*
- * IO.cc
- *
- *  Created on: 25 июн. 2020 г.
- *      Author: Даниил
- */
-
 #include "AudioDriver.h"
 
 void real_audiodriver_cb(void * data, Uint8 * stream, int len)

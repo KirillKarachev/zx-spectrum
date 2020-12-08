@@ -1,10 +1,3 @@
-/*
- * IO.cc
- *
- *  Created on: 25 июн. 2020 г.
- *      Author: Даниил
- */
-
 #include <vector>
 #include <cstdint>
 #include <random>
@@ -15,12 +8,6 @@
 
 #include "Window.h"
 
-//+  ОЗУ
-//+  ПЗУ
-//+- Видеовыход
-//-  Процессор
-//-  Клава
-//+- Несколько портов
 
 int main(int, char **)
 {

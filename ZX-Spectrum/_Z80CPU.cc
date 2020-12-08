@@ -1,10 +1,3 @@
- /*
- * Z80CPU.cc
- *
- *  Created on: 25 июн. 2020 г.
- *      Author: Даниил
- */
-
 #include "Z80CPU.h"
 #include <sstream>
 #include <iomanip>

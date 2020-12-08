@@ -1,10 +1,3 @@
-/*
- * IO.cc
- *
- *  Created on: 25 июн. 2020 г.
- *      Author: Даниил
- */
-
 #ifndef AUDIODRIVER_H_
 #define AUDIODRIVER_H_
 
